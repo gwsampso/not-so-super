@@ -1,0 +1,78 @@
+
+/* Tabs */
+#app-page-content .control-tabs {
+  width: 95%;
+  height: 700px;
+  margin-top: 25px;
+  margin-right: 0px;
+  font-size: 10pt;
+  float: left;
+  /* background-color: #FFFFFF;           Change in individual app stylesheet */
+}
+
+#app-page-content .control-tabs .tab-content {
+  display: inline-block;
+  padding: 20px;
+  border-radius: 0 8px 0 0;
+  border-left: 1px solid lightgrey !important;
+  border-right: 1px solid lightgrey !important;
+  
+}
+
+#app-page-content .control-tab {
+  height: 600px;
+  overflow-y: auto;
+  padding-right: 20px;
+  margin: 20px;
+  margin-right: 0px;
+}
+
+#app-page-content .control-tabs .tab {
+  font-weight: 200;
+  font-size: 9pt;
+  height: 50px;
+  padding: 15px;
+  background-color: #FFFFFF;           /* Change in individual app stylesheet */
+  border-radius: 8px 8px 0 0;
+  border-right: 1px solid #d6d6d6;
+  border-bottom: 1px solid #d6d6d6;
+  /* border: solid 1px #D3D3D3;            */
+}
+
+#app-page-content .control-tabs .tab--selected {
+  font-weight: bold;
+  border: none;
+  border-top: solid 2px;
+}
+
+.custom-tabs-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%
+}
+
+#app-page-content .control-tabs .tab:hover{
+  box-shadow: 1px 1px 0px white;
+  border-top: 3px solid #211052 !important;
+}
+
+
+.custom-tabs {
+  border-top-left-radius: 3px;
+  border-bottom: 1px solid #d6d6d6;
+  
+}
+
+.custom-tab--selected {
+  color: black;
+  border-left: 1px solid lightgrey !important;
+  border-right: 1px solid lightgrey !important;
+  border-top: 3px solid #211052 !important;
+  
+}
+
+
+.tab-content {
+  background-color: white;
+}
+

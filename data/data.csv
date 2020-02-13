@@ -1,0 +1,282 @@
+investment_id,fund_name,superfund_type,fund_assets,investment_id,investment_name,asset_class,lifecycle_in,public_offer,return_1yr,return_3yr,return_5yr,investment_size,targetreturn,risk,fee,invfee,admin_fee
+2190,Australian Defence Force Superannuation Scheme,Public Sector,0.125312,2189,ADF MySuper,Balanced,0,0,7.605989,8.779378,NULL,0.26274,3.5,3.5,535,0.0121,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2955,AFLPA & AFL MySuper 1950s,Conservative Balanced,1,1,5.656472,6.093766,5.55386,0.0013,3.7,2.26,451.96,0.0063,0.0041
+122,AMP Superannuation Savings Trust,Retail,56.744778,2956,AFLPA & AFL MySuper 1960s,Balanced,1,1,6.01325,7.440475,6.736578,0.01098,4.1,2.97,486.96,0.007,0.0041
+122,AMP Superannuation Savings Trust,Retail,56.744778,2957,AFLPA & AFL MySuper 1970s,High Growth,1,1,6.304095,9.384831,8.366587,0.02065,4.8,4.04,516.96,0.0076,0.0041
+122,AMP Superannuation Savings Trust,Retail,56.744778,2958,AFLPA & AFL MySuper 1980s,High Growth,1,1,6.618241,9.780657,8.631041,0.0486,5,4.27,506.96,0.0074,0.0041
+122,AMP Superannuation Savings Trust,Retail,56.744778,2959,AFLPA & AFL MySuper 1990s,High Growth,1,1,6.352521,9.600368,8.521697,0.06277,5,4.27,501.96,0.0073,0.0041
+122,AMP Superannuation Savings Trust,Retail,56.744778,2960,AFLPA & AFL MySuper Capital Stable,Conservative Balanced,1,1,5.603511,5.674023,5.208367,0.00035,3.5,2.29,431.96,0.0059,0.0041
+120,AMG Super,Retail,0.820644,345,AMG Super - MySuper,Balanced,0,1,7.752163,7.815835,7.315458,0.18939,2.42,4,520,0.0032,0.0069
+128,AMIST,Industry,2.119251,346,AMIST - MySuper,Balanced,0,1,6.556986,8.926072,7.895394,1.95031,2,3.5,469,0.0069,0.0023
+122,AMP Superannuation Savings Trust,Retail,56.744778,3017,AMP Flexible Super - AMP MySuper Balanced,Balanced,0,1,8.807605,9.144459,7.882052,1.10821,4.2,3.96,432.52,0.0019,0.0068
+203,AMP Super Directions,Retail,3.440805,353,AMP SDF MySuper - 1950s,Conservative Balanced,1,1,5.531851,6.332126,5.497537,0.15917,3.5,2.26,535.84,0.0062,0.006
+203,AMP Super Directions,Retail,3.440805,354,AMP SDF MySuper - 1960s,Balanced,1,1,6.053311,7.685808,6.623862,0.30354,4,2.97,580.84,0.0071,0.006
+203,AMP Super Directions,Retail,3.440805,355,AMP SDF MySuper - 1970s,Growth,1,1,6.155896,9.681182,8.139904,0.34105,4.7,4.04,595.84,0.0074,0.006
+203,AMP Super Directions,Retail,3.440805,356,AMP SDF MySuper - 1980s,High Growth,1,1,6.468041,10.117222,8.43984,0.29234,4.9,4.27,595.84,0.0074,0.006
+203,AMP Super Directions,Retail,3.440805,357,AMP SDF MySuper - 1990s,High Growth,1,1,6.06348,9.822247,8.281738,0.10506,4.9,4.27,575.84,0.007,0.006
+203,AMP Super Directions,Retail,3.440805,358,AMP SDF MySuper - Capital Stable,Conservative Balanced,1,1,5.49663,5.788668,5.14639,0.03585,3.4,2.29,525.84,0.006,0.006
+122,AMP Superannuation Savings Trust,Retail,56.744778,359,AMP SignatureSuper - MySuper 1950s,Conservative Balanced,1,1,5.667492,6.09402,5.551987,1.01174,3.5,2.26,540.84,0.0063,0.0058
+122,AMP Superannuation Savings Trust,Retail,56.744778,360,AMP SignatureSuper - MySuper 1960s,Balanced,1,1,6.01325,7.42646,6.724118,3.51538,4,2.97,575.84,0.007,0.0058
+122,AMP Superannuation Savings Trust,Retail,56.744778,361,AMP SignatureSuper - MySuper 1970s,Growth,1,1,6.293705,9.374238,8.358165,5.3052,4.7,4.04,605.84,0.0076,0.0058
+122,AMP Superannuation Savings Trust,Retail,56.744778,362,AMP SignatureSuper - MySuper 1980s,High Growth,1,1,6.607988,9.766525,8.616395,4.03843,4.9,4.27,595.84,0.0074,0.0058
+122,AMP Superannuation Savings Trust,Retail,56.744778,363,AMP SignatureSuper - MySuper 1990s,High Growth,1,1,6.352522,9.589829,8.511411,0.90676,4.9,4.27,590.84,0.0073,0.0058
+122,AMP Superannuation Savings Trust,Retail,56.744778,364,AMP SignatureSuper - MySuper Capital Stable,Conservative Balanced,1,1,5.593243,5.670598,5.202247,0.09143,3.4,2.29,520.84,0.0059,0.0058
+122,AMP Superannuation Savings Trust,Retail,56.744778,2076,ANS MySuper RIL Balanced,Balanced,1,1,7.466861,8.422302,7.11523,0.04704,4.3,3.5,502.4,0.009,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2077,ANS MySuper RIL Conservative,Capital Stable,1,1,6.129251,4.721709,4.483937,0.02181,3.2,1.72,412.4,0.0072,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2078,ANS MySuper RIL Growth,NULL,1,1,7.503475,9.707437,7.796703,0.06784,4.7,4.44,542.4,0.0098,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2079,ANS MySuper RIL High Growth,High Growth,1,1,8.04088,11.023052,8.768823,0.01912,5.2,4.95,642.4,0.0118,0.0012
+123,ANZ Australian Staff Superannuation Scheme,Corporate,4.6315,401,ANZ Staff MySuper - Balanced Growth,Balanced,0,0,7.565464,9.328291,7.631512,2.15817,3.6,3.9,325,0.0052,0.0018
+124,AON Master Trust,Retail,3.411853,2092,Aon MT - Aon MySuper 43,NULL,1,1,10.340649,11.342292,9.571379,0.07348,3.5,3.5,497,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2093,Aon MT - Aon MySuper 44,NULL,1,1,10.308089,11.027265,9.350132,0.08582,3.4,3.5,497,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2094,Aon MT - Aon MySuper 45,Growth,1,1,10.264112,10.704826,9.119996,0.08487,3.4,3.5,498,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2095,Aon MT - Aon MySuper 46,NULL,1,1,10.230976,10.389905,8.893426,0.08672,3.4,3.5,498,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2096,Aon MT - Aon MySuper 47,NULL,1,1,10.187035,10.067827,8.662031,0.08936,3.3,3.5,498,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2097,Aon MT - Aon MySuper 48,NULL,1,1,10.15441,9.749694,8.428202,0.08423,3.3,3.5,498,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2098,Aon MT - Aon MySuper 49,NULL,1,1,10.112599,9.43236,8.200585,0.07023,3.2,3.5,498,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,403,Aon MT - Aon MySuper 50,Balanced,1,1,10.070403,9.111398,7.970552,0.07439,3.2,3.5,499,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2109,Aon MT - Aon MySuper 51,NULL,1,1,10.017712,8.790809,7.737797,0.06961,3.2,3.5,499,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2099,Aon MT - Aon MySuper 52,NULL,1,1,9.956677,8.464023,7.498662,0.0654,3.1,3.5,499,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2100,Aon MT - Aon MySuper 53,NULL,1,1,9.914811,8.143744,7.262908,0.0625,3.1,2.5,499,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2101,Aon MT - Aon MySuper 54,NULL,1,1,9.852801,7.82067,7.027008,0.06392,3,2.5,499,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,404,Aon MT - Aon MySuper 55,Balanced,1,1,9.803373,7.498307,6.793208,0.06919,3,2.5,500,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2102,Aon MT - Aon MySuper 56,NULL,1,1,9.744057,7.176507,6.556947,0.06951,2.9,2.5,500,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2103,Aon MT - Aon MySuper 58,NULL,1,1,9.605021,6.519781,6.070781,0.05525,2.8,2.5,501,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2104,Aon MT - Aon MySuper 59,NULL,1,1,9.526267,6.192329,5.829501,0.04835,2.7,2.5,501,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,405,Aon MT - Aon MySuper 60,Conservative Balanced,1,1,9.438075,5.858539,5.586081,0.04388,2.7,2.5,501,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2105,Aon MT - Aon MySuper 61,NULL,1,1,9.352102,5.529242,5.344629,0.04093,2.6,2.5,502,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2106,Aon MT - Aon MySuper 62,NULL,1,1,9.24385,5.189541,5.090221,0.03329,2.5,2.5,502,0.003,0.0065
+124,AON Master Trust,Retail,3.411853,2107,Aon MT - Aon MySuper 64,NULL,1,1,9.013933,4.510227,4.588065,0.01841,2.3,1.5,503,0.003,0.0065
+124,AON Master Trust,Retail,3.411853,406,Aon MT - Aon MySuper 65,Capital Stable,1,1,8.884057,4.164536,4.332582,0.01765,2.2,1.5,504,0.003,0.0065
+124,AON Master Trust,Retail,3.411853,2108,Aon MT - Aon MySuper 66,NULL,1,1,8.788444,3.833523,4.089412,0.01008,2.2,1.5,504,0.003,0.0065
+124,AON Master Trust,Retail,3.411853,2110,Aon MT - Aon MySuper57,NULL,1,1,9.673533,6.847698,6.313895,0.05558,2.9,2.5,500,0.0029,0.0065
+124,AON Master Trust,Retail,3.411853,2111,Aon MT - Aon MySuper63,NULL,1,1,9.138914,4.851202,4.840212,0.02652,2.4,1.5,503,0.003,0.0065
+2212,Australia Post Superannuation Scheme,Public Sector,7.781094,2970,APSS Balanced,Balanced,0,0,7.33463,NULL,NULL,0.97601,3,5,658,0.0095,0.0028
+125,ASGARD Independence Plan Division Two,Retail,22.910506,431,Asgard Employee Super Account - MySuper 1940s Lifestage Investment,Capital Stable,1,1,5.804922,4.490035,4.005473,0.01516,1.1,1.29,628,0.0059,0.0066
+125,ASGARD Independence Plan Division Two,Retail,22.910506,432,Asgard Employee Super Account - MySuper 1950s Lifestage Investment,Conservative Balanced,1,1,5.999996,5.264765,4.747434,0.17908,1.3,1.81,623,0.0059,0.0066
+125,ASGARD Independence Plan Division Two,Retail,22.910506,433,Asgard Employee Super Account - MySuper 1960s Lifestage Investment,Balanced,1,1,6.705364,7.59466,6.263183,0.60581,2.1,3.58,623,0.0061,0.0066
+125,ASGARD Independence Plan Division Two,Retail,22.910506,434,Asgard Employee Super Account - MySuper 1970s Lifestage Investment,Growth,1,1,7.374326,9.804906,7.672618,0.92897,3.1,4.3,628,0.0063,0.0066
+125,ASGARD Independence Plan Division Two,Retail,22.910506,435,Asgard Employee Super Account - MySuper 1980s Lifestage Investment,Growth,1,1,7.39635,9.830706,7.739505,0.76512,3.3,4.3,628,0.0063,0.0066
+125,ASGARD Independence Plan Division Two,Retail,22.910506,436,Asgard Employee Super Account - MySuper 1990s Lifestage Investment,Growth,1,1,7.368029,9.789176,7.699972,0.15377,3.3,4.3,628,0.0063,0.0066
+125,ASGARD Independence Plan Division Two,Retail,22.910506,437,Asgard Employee Super Account - MySuper 2000s Lifestage Investment,Growth,1,1,7.420845,9.687954,7.606268,0.0006,3.3,4.3,628,0.0064,0.0066
+126,Aust Catholic Super & Ret,Industry,8.603071,3761,Aust Catholic Super & Ret - LifetimeOne 40 and below,Growth,1,1,6.685318,NULL,NULL,0.94479,4,4,683,0.0103,0.0041
+126,Aust Catholic Super & Ret,Industry,8.603071,3762,Aust Catholic Super & Ret - LifetimeOne 45,Growth,1,1,6.490946,NULL,NULL,0.14404,3.9,4,683,0.0105,0.0041
+126,Aust Catholic Super & Ret,Industry,8.603071,3763,Aust Catholic Super & Ret - LifetimeOne 50,Balanced,1,1,6.284384,NULL,NULL,0.15757,3.8,4,683,0.0106,0.0041
+126,Aust Catholic Super & Ret,Industry,8.603071,3764,Aust Catholic Super & Ret - LifetimeOne 55,Balanced,1,1,6.041192,NULL,NULL,0.18791,3.6,4,683,0.0108,0.0041
+126,Aust Catholic Super & Ret,Industry,8.603071,3765,Aust Catholic Super & Ret - LifetimeOne 60,Conservative Balanced,1,1,5.782644,NULL,NULL,0.17339,3.4,4,683,0.0109,0.0041
+126,Aust Catholic Super & Ret,Industry,8.603071,3766,Aust Catholic Super & Ret - LifetimeOne 65,Conservative Balanced,1,1,5.926709,NULL,NULL,0.07024,3,3,638,0.0108,0.0041
+126,Aust Catholic Super & Ret,Industry,8.603071,3767,Aust Catholic Super & Ret - LifetimeOne 70 and over,Capital Stable,1,1,6.035576,NULL,NULL,0.08519,2.4,3,683,0.0106,0.0041
+127,Australian Ethical Retail Superannuation Fund,Retail,1.853375,456,Aust Ethical MySuper - Balanced,Balanced,0,1,10.216012,8.820898,7.786778,1.04287,3.5,3.7,662,0.007,0.0061
+122,AMP Superannuation Savings Trust,Retail,56.744778,2081,Australia Post MySuper 1950s,Conservative Balanced,1,1,5.655716,6.093513,5.553709,0.01512,3.8,2.26,368,0.0065,0.0024
+122,AMP Superannuation Savings Trust,Retail,56.744778,2082,Australia Post MySuper 1960s,Balanced,1,1,5.990945,7.432939,6.734166,0.06278,4.3,2.97,403,0.0072,0.0024
+122,AMP Superannuation Savings Trust,Retail,56.744778,2083,Australia Post MySuper 1970s,High Growth,1,1,6.281258,9.376998,8.366058,0.07995,5,4.04,433,0.0078,0.0024
+122,AMP Superannuation Savings Trust,Retail,56.744778,2084,Australia Post MySuper 1980s,High Growth,1,1,6.605624,9.776327,8.628347,0.06958,5.2,4.27,423,0.0076,0.0024
+122,AMP Superannuation Savings Trust,Retail,56.744778,2085,Australia Post MySuper 1990s,High Growth,1,1,6.339782,9.595991,8.521187,0.03907,5.2,4.27,418,0.0075,0.0024
+122,AMP Superannuation Savings Trust,Retail,56.744778,2173,Australia Post MySuper Capital Stable,Conservative Balanced,1,1,5.581521,5.670237,5.206105,0.00048,3.7,2.29,348,0.0061,0.0024
+129,AustralianSuper,Industry,140.131748,466,AustralianSuper - MySuper Balanced,Balanced,0,1,8.655585,10.714579,9.482377,119.40352,3.84,4,447,0.0056,0.0018
+131,AvSuper Fund,Public Sector,2.340549,480,AvSuper - Growth (MySuper),Growth,0,1,6.322248,8.735121,7.521681,0.73769,3.5,3.77,560,0.0038,0.0036
+206,The Bendigo Superannuation Plan,Retail,1.333383,484,Bendigo MySuper - Balanced Index Fund,Balanced,1,1,8.341214,7.263982,6.653066,0.04329,3,3,313,0.0043,0.002
+206,The Bendigo Superannuation Plan,Retail,1.333383,485,Bendigo MySuper - Conservative Index Fund,Capital Stable,1,1,7.365376,5.558409,5.450305,0.05152,2,2,308,0.0042,0.002
+206,The Bendigo Superannuation Plan,Retail,1.333383,486,Bendigo MySuper - Growth Index Fund,Growth,1,1,9.072169,9.024799,7.810281,0.19892,4,4,328,0.0046,0.002
+134,Boc Gases Superannuation Fund,Corporate,0.728444,487,BOC MySuper - High Growth,Balanced,0,0,6.71377,8.730085,7.695396,0.4622,2.6,5,654,0.0097,0.0044
+122,AMP Superannuation Savings Trust,Retail,56.744778,2182,Brookfield Australia MySuper,Balanced,0,1,8.857785,8.223107,7.673869,0.135,4.4,3.58,275,0.0042,0.001
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,507,BT Business Super - MySuper 1940s Lifestage Fund,Capital Stable,1,1,5.823777,4.247169,4.828319,0.04785,1.1,1.29,628,0.0059,0.0069
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,508,BT Business Super - MySuper 1950s Lifestage Fund,Capital Stable,1,1,6.059313,5.093621,5.425202,0.42538,1.3,1.81,623,0.0059,0.0069
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,509,BT Business Super - MySuper 1960s Lifestage Fund,Conservative Balanced,1,1,6.740212,7.725098,6.924899,1.11798,2.1,3.58,623,0.0061,0.0069
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,510,BT Business Super - MySuper 1970s Lifestage Fund,Growth,1,1,7.423579,10.254757,8.532571,1.44518,3.3,4.3,628,0.0063,0.0069
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,511,BT Business Super - MySuper 1980s Lifestage Fund,Growth,1,1,7.44562,10.283774,8.437204,1.14786,3.3,4.3,628,0.0063,0.0069
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,512,BT Business Super - MySuper 1990s Lifestage Fund,Growth,1,1,7.426382,10.224172,8.303489,0.31955,3.3,4.3,628,0.0063,0.0069
+221,Westpac Mastertrust - Superannuation Division,Retail,6.181933,513,BT Business Super - MySuper 2000s Lifestage Fund,Growth,1,1,7.286449,10.030136,8.38671,0.00238,3.3,4.3,628,0.0064,0.0069
+195,BT Retirement Wrap,Retail,65.062322,514,BT Lifetime Employer Super - MySuper 1940s Lifestage Fund,Capital Stable,1,1,5.699914,4.448821,4.013006,0.06294,1.1,1.29,628,0.0059,0.0064
+195,BT Retirement Wrap,Retail,65.062322,515,BT Lifetime Employer Super - MySuper 1950s Lifestage Fund,Capital Stable,1,1,5.916856,5.175225,4.737535,0.84912,1.3,1.81,623,0.0059,0.0064
+195,BT Retirement Wrap,Retail,65.062322,516,BT Lifetime Employer Super - MySuper 1960s Lifestage Fund,Conservative Balanced,1,1,6.623934,7.46257,6.246914,2.69057,2.1,3.58,623,0.0061,0.0064
+195,BT Retirement Wrap,Retail,65.062322,517,BT Lifetime Employer Super - MySuper 1970s Lifestage Fund,Growth,1,1,7.367734,9.729521,7.7366,3.77587,3.3,4.3,628,0.0063,0.0064
+195,BT Retirement Wrap,Retail,65.062322,518,BT Lifetime Employer Super - MySuper 1980s Lifestage Fund,Growth,1,1,7.398455,9.813559,7.874045,3.64109,3.3,4.3,628,0.0063,0.0064
+195,BT Retirement Wrap,Retail,65.062322,519,BT Lifetime Employer Super - MySuper 1990s Lifestage Fund,Growth,1,1,7.459207,9.97178,7.984959,1.0527,3.3,4.3,628,0.0063,0.0064
+195,BT Retirement Wrap,Retail,65.062322,520,BT Lifetime Employer Super - MySuper 2000s Lifestage Fund,Growth,1,1,7.375756,10.111464,8.303983,0.0068,3.3,4.3,628,0.0064,0.0064
+135,BUSSQ,Industry,4.785864,548,BUSSQ MySuper - Balanced Growth,Balanced,0,1,4.786016,7.816809,8.038327,3.7377,4,2.98,598,0.0089,0.0032
+136,Care Super,Industry,14.820289,561,CareSuper - Balanced,Balanced,0,1,6.881778,9.540748,8.743893,12.07594,5.7,2.9,603,0.0071,0.0036
+179,Catholic Super,Industry,9.493621,570,Catholic Super - Aggressive (MySuper),High Growth,1,1,5.359224,NULL,NULL,1.98117,4.5,4.7,778,0.0119,0.0008
+179,Catholic Super,Industry,9.493621,580,Catholic Super - Balanced (MySuper),Balanced,1,1,5.010831,8.830061,8.399304,4.01737,3.9,3.9,768,0.0117,0.0004
+145,Cbus,Industry,45.600494,587,Cbus - Growth (MySuper),Balanced,0,1,7.152056,10.084841,9.200107,44.86675,3.6,3,538,0.0065,0.0027
+122,AMP Superannuation Savings Trust,Retail,56.744778,2087,CCA MySuper Future Directions Balanced,Balanced,1,1,6.18949,8.465666,7.790638,0.16683,4.6,3.56,465,0.0096,0.0003
+122,AMP Superannuation Savings Trust,Retail,56.744778,2088,CCA MySuper Future Directions Conservative,Capital Stable,1,1,5.244163,4.731436,4.865795,0.00855,3.4,1.16,325,0.0068,0.0003
+122,AMP Superannuation Savings Trust,Retail,56.744778,2089,CCA MySuper Future Directions Growth,NULL,1,1,6.454366,9.841188,8.721915,0.12157,5.1,4.3,455,0.0094,0.0003
+122,AMP Superannuation Savings Trust,Retail,56.744778,2090,CCA MySuper Future Directions High Growth,High Growth,1,1,7.106221,10.920397,9.326809,0.01236,5.4,4.65,430,0.0089,0.0003
+122,AMP Superannuation Savings Trust,Retail,56.744778,2091,CCA MySuper Future Directions Moderately Cons,Conservative Balanced,1,1,5.758651,6.79352,6.354628,0.07377,4,2.55,400,0.0083,0.0003
+140,Colonial First State FirstChoice,Retail,76.792733,604,CFS FC MySuper - Lifestage 1945-49,Conservative Balanced,1,1,5.746641,5.738147,5.492919,0.05895,1.6,3.6,570,0.0048,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,605,CFS FC MySuper - Lifestage 1950-54,Conservative Balanced,1,1,5.707718,5.728728,5.441572,0.21454,1.6,3.6,570,0.0048,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,606,CFS FC MySuper - Lifestage 1955-59,Conservative Balanced,1,1,5.737071,5.973773,5.666411,0.5952,1.6,3.6,570,0.0049,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,607,CFS FC MySuper - Lifestage 1960-64,Balanced,1,1,6.698518,8.278901,7.085307,1.11165,2.3,3.9,570,0.005,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,608,CFS FC MySuper - Lifestage 1965-69,Growth,1,1,7.893195,10.297641,8.274596,1.37872,3.3,5.3,555,0.0049,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,609,CFS FC MySuper - Lifestage 1970-74,Growth,1,1,8.278462,10.507007,8.360814,1.68283,3.6,5.4,545,0.0049,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,610,CFS FC MySuper - Lifestage 1975-79,Growth,1,1,8.283623,10.518201,8.301741,1.61382,3.6,5.5,545,0.0048,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,611,CFS FC MySuper - Lifestage 1980-84,Growth,1,1,8.266476,10.512499,8.294166,1.5203,3.6,5.5,540,0.0048,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,612,CFS FC MySuper - Lifestage 1985-89,Growth,1,1,8.237713,10.513459,8.297071,1.04408,3.6,5.5,540,0.0047,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,613,CFS FC MySuper - Lifestage 1990-94,Growth,1,1,8.151225,10.484459,8.279635,0.48036,3.6,5.5,530,0.0046,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,614,CFS FC MySuper - Lifestage 1995-99,Growth,1,1,7.968845,10.438449,8.26681,0.10957,3.6,5.5,530,0.0045,0.0071
+140,Colonial First State FirstChoice,Retail,76.792733,2191,CFS FC MySuper - Lifestage 2000-04,Growth,1,1,7.627171,10.215992,NULL,0.00375,3.6,5.5,515,0.0043,0.0071
+137,Christian Super,Industry,1.444385,622,Christian Super - MyEthicalSuper,Balanced,0,1,7.889965,8.093078,7.023833,0.9706,2.62,5,711,0.0104,0.004
+138,Club Plus Superannuation Scheme,Industry,2.768728,629,Club Plus Super - MySuper,Balanced,0,1,6.853541,9.944945,8.329649,2.52476,3,5.6,599,0.008,0.004
+139,Club Super,Industry,0.573072,634,Club Super - Club MySuper,Balanced,0,0,5.365203,8.866655,7.613012,0.48077,3.43,4.1,786,0.0109,0.005
+142,Commonwealth Bank Group Super,Corporate,11.387156,658,Commonwealth Bank Group Super MySuper - Balanced,Balanced,0,0,7.669381,7.817534,6.701873,5.9702,2.5,5,443,0.0056,0.0033
+143,Commonwealth Essential Super,Retail,3.396708,1173,Commonwealth Essential Super MySuper - Lifestage 1945-49,Conservative Balanced,1,1,6.124524,5.541394,5.442837,0.02608,1.8,3.3,505.56,0.0048,0.0053
+143,Commonwealth Essential Super,Retail,3.396708,1174,Commonwealth Essential Super MySuper - Lifestage 1950-54,Conservative Balanced,1,1,NULL,NULL,NULL,0.05564,1.8,3.3,505.56,0.00105,0.00135
+143,Commonwealth Essential Super,Retail,3.396708,1175,Commonwealth Essential Super MySuper - Lifestage 1960-64,Conservative Balanced,1,1,NULL,NULL,NULL,0.21612,2.5,3.9,505.56,0.0011,0.00135
+143,Commonwealth Essential Super,Retail,3.396708,1176,Commonwealth Essential Super MySuper - Lifestage 1970-74,High Growth,1,1,NULL,NULL,NULL,0.3615,3.9,5.3,485.56,0.00105,0.00135
+143,Commonwealth Essential Super,Retail,3.396708,1177,Commonwealth Essential Super MySuper - Lifestage 1980-84,High Growth,1,1,NULL,NULL,NULL,0.60287,4,5.3,475.56,0.00105,0.00135
+143,Commonwealth Essential Super,Retail,3.396708,1178,Commonwealth Essential Super MySuper - Lifestage 1990-94,High Growth,1,1,NULL,NULL,NULL,0.52714,4,5.3,475.56,0.00105,0.00135
+143,Commonwealth Essential Super,Retail,3.396708,2952,Commonwealth Essential Super MySuper - Lifestage 2000-04,Growth,1,1,8.396789,NULL,NULL,0.00317,4,5.3,455.56,0.0041,0.0053
+189,PSSap,Public Sector,12.51547,666,CSC PSSap - MySuper Balanced,Balanced,0,0,7.689115,8.789976,8.021135,12.00006,3.5,3.5,535,0.0122,0.0012
+149,Energy Industries Superannuation Scheme-Pool A,Public Sector,3.596224,674,EISS Super - MySuper Conservative Balanced,Conservative Balanced,0,1,7.030209,6.929724,6.259936,1.4207,2.5,2.9,460,0.0035,0.0046
+150,Energy Super,Industry,7.376401,681,Energy Super - MySuper,Balanced,0,1,5.607083,8.891264,8.198853,2.23935,4.62,3.5,642,0.0089,0.0033
+151,equipsuper,Industry,14.84029,683,Equip - MySuper,Balanced,0,1,8.995646,9.846118,8.513627,6.27285,3.75,2.8,442,0.0059,0.0024
+153,First State Super,Public Sector,71.471429,702,First State Super MySuper - Life Cycle Balanced Growth,Conservative Balanced,1,1,7.144931,8.241166,7.083035,14.08676,2.9,3.8,507,0.0076,0.0024
+153,First State Super,Public Sector,71.471429,703,First State Super MySuper - Life Cycle Growth,Balanced,1,1,7.7107,10.01207,8.254682,49.76219,3.6,4.5,527,0.008,0.0024
+154,First Super,Industry,2.974389,709,First Super MySuper - Balanced,Balanced,0,1,6.706462,9.890864,8.921264,2.79301,3.5,2.3,633.49,0.0124,0.004
+155,Goldman Sachs & JBWere Superannuation Fund,Corporate,0.499427,710,Goldman Sachs & JBWere Superannuation - MySuper,Growth,0,0,8.991725,10.273449,9.549745,0.39226,4,6,750,0.0052,0.01
+156,Guild Retirement Fund,Retail,1.753629,711,GuildSuper MySuper - Building Lifestage,High Growth,1,1,8.61763,10.658712,8.883306,0.84052,4,4.5,735,0.0075,0.0035
+156,Guild Retirement Fund,Retail,1.753629,712,GuildSuper MySuper - Consolidating Lifestage,Conservative Balanced,1,1,9.027425,7.339091,6.31642,0.13868,2.5,1.9,605,0.0058,0.0035
+156,Guild Retirement Fund,Retail,1.753629,713,GuildSuper MySuper - Growing Lifestage,Growth,1,1,8.544804,8.899127,7.467118,0.43221,3,3.4,670,0.0067,0.0035
+157,HESTA,Industry,46.803844,717,HESTA - Core Pool,Balanced,0,1,7.258306,9.608006,8.377181,40.20199,4.88,3.5,555,0.0085,0.002
+158,HOSTPLUS,Industry,33.708729,724,HOSTPLUS - Balanced,Balanced,0,1,6.797217,10.796392,9.651738,33.82802,3,4.5,608,0.0106,0.0016
+159,IAG & NRMA Superannuation Plan,Corporate,2.110076,734,IAG & NRMA Super - MySuper,Balanced,0,0,6.456932,8.219034,7.112254,1.50365,2.66,5,785,0.0093,0.004
+161,Intrust,Industry,2.597851,746,Intrust Core Super - MySuper,Balanced,0,1,5.557679,9.330717,8.320326,2.04558,5,3.96,568,0.0082,0.0032
+162,IOOF Portfolio Service Superannuation Fund,Retail,27.71139,761,IOOF MySuper - IOOF Balanced Investor Trust,Balanced,0,1,8.15117,8.650653,7.972421,3.27058,3.5,3,632,0.0074,0.0059
+160,Incitec Pivot Employees Superannuation Fund,Retail,0.200903,762,IPE MySuper - Active Balanced,Balanced,0,0,6.255837,8.328672,7.415749,0.05469,2.6,5,674,0.0095,0.004
+165,legalsuper,Industry,3.753987,780,legalsuper - MySuper Balanced,Balanced,0,1,7.236629,9.176757,8.244068,2.05972,3,4.5,658,0.0083,0.0043
+166,LESF Super,Retail,0.217857,2166,LESF MySuper,Balanced,0,1,8.21751,9.432794,7.246539,0.15011,2.5,5,645,0,0.0083
+168,LGIAsuper,Public Sector,11.729953,782,LGIAsuper - MySuper Lifecycle 75 Plus,Conservative Balanced,1,0,6.419306,7.350655,6.615749,0.02983,2.5,3.3,500,0.0082,0.002
+168,LGIAsuper,Public Sector,11.729953,783,LGIAsuper - MySuper Lifecycle Under 75,Balanced,1,0,6.943398,9.164924,7.821464,7.72751,3,4.1,520,0.0087,0.002
+2249,Local Government Super,Public Sector,11.329782,793,LGS MySuper Age Based Investment Strategy - Balanced,Conservative Balanced,1,1,6.812473,7.180474,6.775062,0.70265,2,2,706.24,0.01,0.004
+2249,Local Government Super,Public Sector,11.329782,794,LGS MySuper Age Based Investment Strategy - Balanced Growth,Balanced,1,1,7.464994,9.179875,8.170235,0.73198,3,3,711.24,0.01,0.004
+2249,Local Government Super,Public Sector,11.329782,795,LGS MySuper Age Based Investment Strategy - Conservative,Capital Stable,1,1,5.594602,5.102199,5.121734,1.20507,1.5,0.5,626.24,0.0084,0.004
+2249,Local Government Super,Public Sector,11.329782,797,LGS MySuper Age Based Investment Strategy - High Growth,Growth,1,1,8.030093,11.10847,9.449861,1.41153,3.5,3,776.24,0.0116,0.004
+164,LUCRF,Industry,6.358638,810,LUCRF Super - MySuper Balanced,Balanced,0,1,6.054489,8.446757,7.115092,5.45456,3,3.5,488.12,0.0074,0.0041
+170,Lutheran Super,Corporate,0.574206,1289,Lutheran Super - Balanced,Balanced,0,0,8.375943,10.197114,7.651878,0.29002,4,3,511,0.0055,0.0048
+122,AMP Superannuation Savings Trust,Retail,56.744778,2183,Macquarie Group MySuper,Balanced,0,1,7.989029,9.165482,7.575581,0.41638,4.1,3.07,495,0.0074,0.0024
+171,Maritime Super,Industry,5.589961,815,Maritime MySuper - Moderate,Balanced,0,1,4.5115,7.196095,6.237902,0.99411,4,2.8,958,0.0133,0.0044
+172,Max Super Fund,Retail,0.096657,2170,max Super MySuper,Balanced,0,1,11.449382,10.533478,9.747691,0.02394,4,3,564,0.0012,0.0103
+174,Media Super,Industry,5.528066,823,Media Super - Balanced,Balanced,0,1,8.755327,10.12732,8.468902,4.2251,3.4,3.4,515,0.005,0.0025
+175,Mercer Super Trust,Retail,24.014416,2187,Mercer Santos MySuper,NULL,0,1,7.432074,8.619384,7.501391,0.21129,4.7,3.6,509.92,0.0084,0.0016
+175,Mercer Super Trust,Retail,24.014416,832,Mercer SmartPath - MySuper Born 1929 - 1933,Conservative Balanced,1,1,6.929389,6.459001,5.618668,0.00002,2.9,2.4,709.12,0.0065,0.0076
+175,Mercer Super Trust,Retail,24.014416,833,Mercer SmartPath - MySuper Born 1934 - 1938,Conservative Balanced,1,1,6.927964,6.633026,5.906368,0.0014,2.9,2.5,704.12,0.0064,0.0076
+175,Mercer Super Trust,Retail,24.014416,834,Mercer SmartPath - MySuper Born 1939 - 1943,Conservative Balanced,1,1,6.924948,6.666928,5.90634,0.01239,2.9,2.5,704.12,0.0064,0.0076
+175,Mercer Super Trust,Retail,24.014416,835,Mercer SmartPath - MySuper Born 1944 - 1948,Conservative Balanced,1,1,6.603417,6.455834,5.761173,0.04706,2.9,2.5,784.12,0.008,0.0076
+175,Mercer Super Trust,Retail,24.014416,836,Mercer SmartPath - MySuper Born 1949 - 1953,Conservative Balanced,1,1,6.705235,6.804432,6.085306,0.15991,2.9,3,734.12,0.0072,0.0076
+175,Mercer Super Trust,Retail,24.014416,837,Mercer SmartPath - MySuper Born 1954 - 1958,Conservative Balanced,1,1,7.054272,7.653336,6.645431,0.64781,3.5,3.5,734.12,0.0072,0.0076
+175,Mercer Super Trust,Retail,24.014416,838,Mercer SmartPath - MySuper Born 1959 - 1963,Balanced,1,1,7.043786,8.419688,7.254359,1.38192,3.9,3.8,789.12,0.008,0.0076
+175,Mercer Super Trust,Retail,24.014416,839,Mercer SmartPath - MySuper Born 1964 - 1968,Growth,1,1,7.532963,9.426273,7.940012,1.55059,4.4,4.1,829.12,0.0089,0.0076
+175,Mercer Super Trust,Retail,24.014416,2112,Mercer SmartPath - MySuper Born 1969 to 1973,Growth,1,1,7.736097,9.988473,8.270277,1.67631,4.8,4.1,834.12,0.0091,0.0076
+175,Mercer Super Trust,Retail,24.014416,2113,Mercer SmartPath - MySuper Born 1974 to 1978,Growth,1,1,7.85157,10.027754,8.27246,1.40243,4.8,4.1,829.12,0.0089,0.0076
+175,Mercer Super Trust,Retail,24.014416,2114,Mercer SmartPath - MySuper Born 1979 to 1983,Growth,1,1,7.85157,10.063841,8.293766,1.05718,4.8,4.1,834.12,0.0091,0.0076
+175,Mercer Super Trust,Retail,24.014416,2115,Mercer SmartPath - MySuper Born 1984 to 1988,Growth,1,1,7.85157,10.027754,8.314165,0.59459,4.8,4.1,839.12,0.0091,0.0076
+175,Mercer Super Trust,Retail,24.014416,2116,Mercer SmartPath - MySuper Born 1989 to 1993,Growth,1,1,7.751522,9.888254,8.126777,0.22672,4.8,4.1,859.12,0.0096,0.0076
+175,Mercer Super Trust,Retail,24.014416,2117,Mercer SmartPath - MySuper Born 1994 to 1998,Growth,1,1,7.648114,9.88979,8.168916,0.04737,4.8,4.1,859.12,0.0096,0.0076
+175,Mercer Super Trust,Retail,24.014416,2118,Mercer SmartPath - MySuper Born 1999 to 2003,Growth,1,1,7.343688,9.537456,7.792646,0.00219,4.8,4.1,859.12,0.0096,0.0076
+175,Mercer Super Trust,Retail,24.014416,840,Mercer SmartPath - MySuper Born Prior to 1929,Conservative Balanced,1,1,7.030187,6.526899,5.661269,0,2.9,2.3,709.12,0.0065,0.0076
+175,Mercer Super Trust,Retail,24.014416,2120,Mercer WGSP  - MySuper Born 1929 to 1933,NULL,1,1,NULL,NULL,NULL,0,3.4,2.4,444,NULL,NULL
+175,Mercer Super Trust,Retail,24.014416,2121,Mercer WGSP  - MySuper Born 1934 to 1938,NULL,1,1,6.927964,6.633026,5.906368,0.00017,3.4,2.5,439,0.0064,0.0028
+175,Mercer Super Trust,Retail,24.014416,2122,Mercer WGSP  - MySuper Born 1939 to 1943,NULL,1,1,6.924948,6.666928,5.90634,0.00081,3.4,2.5,439,0.0064,0.0028
+175,Mercer Super Trust,Retail,24.014416,2123,Mercer WGSP  - MySuper Born 1944 to 1948,NULL,1,1,6.603417,6.455834,5.761173,0.00807,3.4,2.5,519,0.008,0.0028
+175,Mercer Super Trust,Retail,24.014416,2124,Mercer WGSP  - MySuper Born 1949 to 1953,Conservative Balanced,1,1,6.705235,6.804432,6.085306,0.02707,3.4,3,469,0.0072,0.0028
+175,Mercer Super Trust,Retail,24.014416,2125,Mercer WGSP  - MySuper Born 1954 to 1958,Balanced,1,1,7.054272,7.653336,6.645431,0.0838,3.9,3.5,469,0.0072,0.0028
+175,Mercer Super Trust,Retail,24.014416,2126,Mercer WGSP  - MySuper Born 1959 to 1963,Balanced,1,1,7.043786,8.419688,7.254359,0.1731,4.3,3.8,524,0.008,0.0028
+175,Mercer Super Trust,Retail,24.014416,2127,Mercer WGSP  - MySuper Born 1964 to 1968,Growth,1,1,7.532963,9.426273,7.940012,0.19913,4.8,4.1,564,0.0089,0.0028
+175,Mercer Super Trust,Retail,24.014416,2128,Mercer WGSP  - MySuper Born 1969 to 1973,Growth,1,1,7.736097,9.988473,8.270277,0.20779,5.3,4.1,569,0.0091,0.0028
+175,Mercer Super Trust,Retail,24.014416,2129,Mercer WGSP  - MySuper Born 1974 to 1978,Growth,1,1,7.85157,10.027754,8.27246,0.16253,5.3,4.1,564,0.0089,0.0028
+175,Mercer Super Trust,Retail,24.014416,2130,Mercer WGSP  - MySuper Born 1979 to 1983,Growth,1,1,7.85157,10.063841,8.293766,0.1123,5.3,4.1,569,0.0091,0.0028
+175,Mercer Super Trust,Retail,24.014416,2131,Mercer WGSP  - MySuper Born 1984 to 1988,Growth,1,1,7.85157,10.027754,8.314165,0.07545,5.3,4.1,574,0.0091,0.0028
+175,Mercer Super Trust,Retail,24.014416,2132,Mercer WGSP  - MySuper Born 1989 to 1993,Growth,1,1,7.751522,9.888254,8.126777,0.02645,5.3,4.1,594,0.0096,0.0028
+175,Mercer Super Trust,Retail,24.014416,2133,Mercer WGSP  - MySuper Born 1994 to 1998,Growth,1,1,7.648114,9.88979,8.168916,0.0038,5.3,4.1,594,0.0096,0.0028
+175,Mercer Super Trust,Retail,24.014416,2134,Mercer WGSP  - MySuper Born 1999 to 2003,Growth,1,1,7.343688,9.537456,7.792646,0.00014,5.3,4.1,594,0.0096,0.0028
+175,Mercer Super Trust,Retail,24.014416,2135,Mercer WGSP  - MySuper Born prior to 1929,NULL,1,1,NULL,NULL,NULL,0,3.4,2.3,444,0.003675,0.00165
+176,Mercy Super,Corporate,1.295862,854,Mercy Super - MySuper Balanced,Balanced,0,0,8.607314,10.667382,8.886168,1.04542,5.25,2.9,675.2,0.0084,0.004
+173,MIESF,Industry,0.830863,2172,MIESF MySuper,Balanced,0,0,6.364902,8.921034,7.784283,0.83459,2.7,2.6,342,0.0038,0.002
+177,Mine Superannuation Fund,Industry,10.687431,856,Mine MySuper - Aggressive,High Growth,1,1,7.248085,9.38368,8.20937,2.6975,3.5,4.5,594,0.0083,0.0036
+177,Mine Superannuation Fund,Industry,10.687431,857,Mine MySuper - Balanced,Conservative Balanced,1,1,4.680896,5.993747,5.722741,1.61369,2.5,3.4,599,0.0091,0.0036
+177,Mine Superannuation Fund,Industry,10.687431,858,Mine MySuper - Growth,Growth,1,1,6.373113,7.980142,7.172669,2.16169,3,4,609,0.0087,0.0036
+177,Mine Superannuation Fund,Industry,10.687431,859,Mine MySuper - Stable,Capital Stable,1,1,4.004734,4.440356,4.480699,0.22788,1.5,2.4,564,0.0077,0.0036
+2896,MLC Super Fund,Retail,80.187335,4387,MLC MasterKey Business Super - MySuper Growth Portfolio,Growth,1,1,NULL,NULL,NULL,19.56549,4.6,4.1,728,0.000475,0.000425
+178,MTAA Superannuation Fund,Industry,11.575922,877,MTAA Super - My AutoSuper,Balanced,0,1,7.682715,9.337113,9.078706,10.75774,3.2,3.8,503,0.0098,0.0031
+2896,MLC Super Fund,Retail,80.187335,2140,NABGSF MySuper,Balanced,0,1,6.548387,9.289674,7.94076,2.58706,4.7,3.8,573,0.0096,0.0019
+182,NESS Super,Industry,0.760589,2138,NESS MySuper,Balanced,0,1,7.239133,8.603668,7.493763,0.68005,3,3.8,557,0.007,0.0028
+183,NGS Super,Industry,8.975414,899,NGS Super - Diversified MySuper,Balanced,0,1,7.231495,9.554941,8.197399,7.4991,3.8,3,665,0.0111,0.0024
+2265,Perpetual WealthFocus Superannuation Fund,Retail,1.976015,910,Perpetual MySuper - Balanced Growth,Balanced,0,1,8.283934,8.404352,6.851537,0.23225,3,5,565,0.0071,0.0044
+186,Pitcher Retirement Plan,Corporate,0.085159,2175,Pitcher Retirement Plan MySuper,Balanced,0,0,4.658082,5.279564,5.808699,0.03199,2.4,2.3,961,0.0106,0.0085
+188,Prime Super,Industry,3.866247,949,Prime Super - MySuper,Balanced,0,1,6.286092,9.205481,8.528832,4.40923,3,3.9,679,0.0046,0.0075
+190,Qantas Super,Corporate,7.951615,957,QANTAS Super Gateway MySuper - Glidepath Altitude,Balanced,1,0,7.090511,8.996638,NULL,0.39988,3.3,3.3,522,0.0037,0.0046
+190,Qantas Super,Corporate,7.951615,2136,QANTAS Super Gateway MySuper - Glidepath Cruising,Balanced,1,0,6.972723,8.342643,NULL,0.29453,3,3,502,0.0036,0.0046
+190,Qantas Super,Corporate,7.951615,958,QANTAS Super Gateway MySuper - Glidepath Destination,Conservative Balanced,1,0,6.065377,7.218037,NULL,0.07347,2.5,2.5,487,0.0036,0.0046
+190,Qantas Super,Corporate,7.951615,959,QANTAS Super Gateway MySuper - Glidepath Take-Off,Growth,1,0,7.56687,10.370767,NULL,0.31933,4.1,4.1,552,0.0039,0.0046
+199,QSuper,Public Sector,101.836658,977,QSuper Lifetime - QSuper Lifetime Aspire 1,Balanced,1,0,11.010137,9.473243,10.07631,1.01504,4.5,3,450,0.0061,0.0016
+199,QSuper,Public Sector,101.836658,978,QSuper Lifetime - QSuper Lifetime Aspire 2,Conservative Balanced,1,0,11.404424,7.865682,8.855881,12.10694,4,2,450,0.0063,0.0016
+199,QSuper,Public Sector,101.836658,979,QSuper Lifetime - QSuper Lifetime Focus 1,Conservative Balanced,1,0,10.495166,7.698426,8.499422,1.78631,4,2,395,0.0051,0.0016
+199,QSuper,Public Sector,101.836658,980,QSuper Lifetime - QSuper Lifetime Focus 2,Capital Stable,1,0,10.155436,7.111272,7.87618,4.19676,3.75,2,395,0.0052,0.0016
+199,QSuper,Public Sector,101.836658,981,QSuper Lifetime - QSuper Lifetime Focus 3,Capital Stable,1,0,9.890109,6.404697,7.167144,5.23803,3.5,2,395,0.0052,0.0016
+199,QSuper,Public Sector,101.836658,982,QSuper Lifetime - QSuper Lifetime Outlook,Balanced,1,0,10.80652,8.548054,9.489401,11.85712,4.5,3,525,0.0073,0.0016
+199,QSuper,Public Sector,101.836658,983,QSuper Lifetime - QSuper Lifetime Sustain 1,Secure,1,0,6.415329,5.234784,5.775319,4.54838,2.5,0.5,285,0.0034,0.0016
+199,QSuper,Public Sector,101.836658,984,QSuper Lifetime - QSuper Lifetime Sustain 2,Secure,1,0,4.430129,3.690305,4.113256,3.28492,2,0,285,0.0035,0.0016
+193,Rei Super,Industry,1.603839,1010,Rei Super - Balanced,Balanced,0,1,6.911768,7.696039,7.953236,1.30083,4.5,3,660.8,0.0092,0.0043
+194,Rest,Industry,51.568538,1021,REST - Core Strategy,Balanced,0,1,5.958945,8.577816,7.366633,48.95782,4.8,3.5,497.6,0.0076,0.0022
+197,Russell Supersolution Master Trust,Retail,8.710803,1045,Russell iQ Super MySuper - Russell Balanced Opportunities Portfolio,Balanced,0,1,6.73592,7.985159,7.281444,3.58363,4,3.5,804.79,0.0068,0.0072
+124,AON Master Trust,Retail,3.411853,4261,smartMonday MySuper - Aon MySuper 35,Growth,1,1,10.561219,NULL,NULL,0.39181,3.7,5,496,0.0028,0.0065
+124,AON Master Trust,Retail,3.411853,4262,smartMonday MySuper - Aon MySuper 40,Growth,1,1,10.440809,NULL,NULL,0.07136,3.6,3.5,497,0.0028,0.0065
+124,AON Master Trust,Retail,3.411853,4263,smartMonday MySuper - Aon MySuper 70,Capital Stable,1,1,8.62029,NULL,NULL,0.00388,2.1,1.5,504,0.003,0.0065
+124,AON Master Trust,Retail,3.411853,4264,smartMonday MySuper - Aon MySuper 75,Capital Stable,1,1,8.424682,NULL,NULL,0.01921,1.9,1.5,505,0.003,0.0065
+198,Smartsave 'Member's Choice' Superannuation Master ,Retail,0.192792,1052,Smartsave MySuper - Smartsave MySuper Balanced,Conservative Balanced,0,1,7.748713,7.992798,7.105433,0.04318,2.5,5,561.63,0.0031,0.0051
+200,Statewide Superannuation Trust,Industry,8.33753,1061,StatewideSuper - MySuper,Growth,0,1,7.063091,9.870141,9.240971,6.03712,5.08,4,523,0.0085,0.002
+201,Suncorp Master Trust,Retail,7.000502,1066,Suncorp  - Suncorp Lifestage Fund 1950 to 1954,Conservative Balanced,1,1,6.498371,5.170743,5.627721,0.03966,2,4.33,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1067,Suncorp  - Suncorp Lifestage Fund 1955 to 1959,Conservative Balanced,1,1,6.713592,5.564826,6.059958,0.11627,2.5,4.47,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1068,Suncorp  - Suncorp Lifestage Fund 1960 to 1964,Balanced,1,1,7.004457,6.105645,6.663252,0.20712,3,4.75,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1069,Suncorp  - Suncorp Lifestage Fund 1965 to 1969,Balanced,1,1,7.268862,6.743465,7.394799,0.26907,3,5.03,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1070,Suncorp  - Suncorp Lifestage Fund 1970 to 1974,Growth,1,1,7.454082,7.307752,8.06763,0.31741,3.5,5.24,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1071,Suncorp  - Suncorp Lifestage Fund 1975 to 1979,Growth,1,1,7.618839,7.72049,8.568843,0.31486,3.5,5.37,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1072,Suncorp  - Suncorp Lifestage Fund 1980 to 1984,Growth,1,1,7.710525,8.002047,8.811855,0.28661,4,5.44,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1073,Suncorp  - Suncorp Lifestage Fund 1985 to 1989,Growth,1,1,7.721902,8.162461,8.949452,0.20821,4,5.5,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1074,Suncorp  - Suncorp Lifestage Fund 1990 to 1994,Growth,1,1,7.713177,8.25841,9.034059,0.12294,4.5,5.52,591.8,0.0023,0.0095
+201,Suncorp Master Trust,Retail,7.000502,1075,Suncorp  - Suncorp Lifestage Fund 1995 to 1999,Growth,1,1,7.718995,8.225042,9.053384,0.04037,4.5,5.51,591.8,0.0023,0.0095
+202,Sunsuper,Industry,56.440786,1099,Sunsuper for Life MySuper - Lifecycle Investment Strategy (Balanced Pool),Balanced,1,1,8.516527,10.495915,8.911116,31.53191,5.4,3.6,553,0.0085,0.0026
+204,Tasplan,Industry,8.692809,2898,Tasplan - OnTrack Build,Growth,1,1,9.029113,NULL,NULL,3.15237,3.9,5,538,0.0072,0.0036
+204,Tasplan,Industry,8.692809,2900,Tasplan - OnTrack Control,Balanced,1,1,8.411749,NULL,NULL,0.99463,2.4,2.5,503,0.0065,0.0036
+204,Tasplan,Industry,8.692809,2901,Tasplan - OnTrack Maintain,Conservative Balanced,1,1,7.772293,NULL,NULL,1.0173,1.6,2.5,468,0.0059,0.0036
+204,Tasplan,Industry,8.692809,2899,Tasplan - OnTrack Sustain,Balanced,1,1,8.720183,NULL,NULL,0.89545,3.1,3.5,523,0.0069,0.0036
+205,Telstra Super,Corporate,20.823096,1107,Telstra Super - MySuper Balanced,Balanced,1,1,7.065672,8.911355,7.555973,4.88181,3,4.1,603,0.0086,0.0036
+205,Telstra Super,Corporate,20.823096,1108,Telstra Super - MySuper Conservative,Capital Stable,1,1,5.7428,6.217985,5.872362,0.3095,1.5,1.6,488,0.0062,0.0036
+205,Telstra Super,Corporate,20.823096,1109,Telstra Super - MySuper Growth,Growth,1,1,7.688199,10.371521,8.430635,2.18507,3.5,4.8,638,0.0093,0.0036
+213,Toyota Employees Superannuation Trust,Corporate,0.89649,2147,TEST MySuper Growth,Balanced,0,0,6.333699,8.407982,7.264503,0.55938,4,4,608,0.007,0.0019
+214,TWU Superannuation Fund,Industry,5.36546,1123,TWUSUPER MySuper - Balanced (MySuper),Balanced,0,1,5.502786,8.973211,7.813478,5.11794,4.51,3.5,808,0.0116,0.0048
+215,Unisuper,Industry,69.976707,1124,UniSuper Accum - MySuper Balanced,Balanced,0,0,9.868849,9.968126,9.351117,20.90233,4.6,4,361,0.0054,0.002
+216,United Technologies Corporation Retirement Plan,Retail,0.321067,2149,UTC Balanced,Balanced,0,0,7.871349,7.971988,6.534746,0.05308,2.6,4.3,575,0.0071,0.004
+217,VicSuper,Public Sector,20.94931,1133,VicSuper - Growth (MySuper),Balanced,0,1,8.198653,9.459152,8.221388,13.49204,3.5,3,563,0.0078,0.0035
+175,Mercer Super Trust,Retail,24.014416,3002,Virgin Money - MySuper  1949 - 1953,Conservative Balanced,1,1,8.658163,NULL,NULL,0.01125,2.2,3.8,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3003,Virgin Money - MySuper  1954 - 1958,Conservative Balanced,1,1,8.965376,NULL,NULL,0.02948,2.6,4.3,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3004,Virgin Money - MySuper  1959 - 1963,Balanced,1,1,9.377157,NULL,NULL,0.06913,3.1,4.8,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3005,Virgin Money - MySuper  1964 - 1968,Growth,1,1,9.72568,NULL,NULL,0.09407,3.5,5.1,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3006,Virgin Money - MySuper  1969 to 1973,Growth,1,1,10.004402,NULL,NULL,0.13408,3.9,5.3,358,0.0021,0.0052
+175,Mercer Super Trust,Retail,24.014416,3007,Virgin Money - MySuper  1974 to 1978,Growth,1,1,9.897705,NULL,NULL,0.14541,3.9,5.3,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3008,Virgin Money - MySuper  1979 to 1983,Growth,1,1,9.897703,NULL,NULL,0.1334,3.9,5.3,358,0.0021,0.0052
+175,Mercer Super Trust,Retail,24.014416,3009,Virgin Money - MySuper  1984 to 1988,Growth,1,1,9.897703,NULL,NULL,0.07663,3.9,5.3,358,0.0021,0.0052
+175,Mercer Super Trust,Retail,24.014416,3010,Virgin Money - MySuper  1989 to 1993,Growth,1,1,9.897704,NULL,NULL,0.02771,3.9,5.3,358,0.0021,0.0052
+175,Mercer Super Trust,Retail,24.014416,3011,Virgin Money - MySuper  1994 to 1998,Growth,1,1,9.915657,NULL,NULL,0.00569,3.9,5.3,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3012,Virgin Money - MySuper  1999 to 2003,Growth,1,1,9.743576,NULL,NULL,0.00048,3.9,5.3,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3014,Virgin Money - MySuper  2004 to 2008,Growth,1,1,10.648735,NULL,NULL,0,3.9,5.3,358,0.0021,0.0052
+175,Mercer Super Trust,Retail,24.014416,3015,Virgin Money - MySuper  2009 to 2013,Growth,1,1,10.102829,NULL,NULL,0,3.9,5.3,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3016,Virgin Money - MySuper  2014 to 2018,Growth,1,1,9.614243,NULL,NULL,0.00001,3.9,5.3,358,0.002,0.0052
+175,Mercer Super Trust,Retail,24.014416,3013,Virgin Money - MySuper  Prior to 1949,Conservative Balanced,1,1,8.353478,NULL,NULL,0.00875,2.2,3.5,358,0.002,0.0052
+167,Vision Super,Public Sector,9.429617,5,Vision SS - Balanced Growth,Balanced,0,1,7.37153,9.806607,8.229982,4.23947,2.9,5,508,0.0069,0.0035
+211,The Victorian Independent Schools Superannuation F,Industry,0.782684,1162,VISSF MySuper - Balanced,Balanced,0,0,15.605364,12.016974,9.159661,0.43341,3,4.7,567,0.0077,0.0032
+219,WA Local Government Superannuation Plan,Public Sector,3.61037,1163,WA Super Super Solutions - My WA Super,Conservative Balanced,0,1,7.258935,7.512898,7.061654,1.796,2.5,5,553,0.0061,0.0024
+122,AMP Superannuation Savings Trust,Retail,56.744778,2995,Water Corporation MySuper 1950s,Conservative Balanced,1,1,5.625177,NULL,NULL,0.05361,3.8,2.26,413.84,0.0069,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2996,Water Corporation MySuper 1960s,Balanced,1,1,5.950423,NULL,NULL,0.09874,4.2,2.97,448.84,0.0076,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2997,Water Corporation MySuper 1970s,High Growth,1,1,6.250895,NULL,NULL,0.08646,4.9,4.04,478.84,0.0082,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2998,Water Corporation MySuper 1980s,High Growth,1,1,6.565392,NULL,NULL,0.05314,5.1,4.27,468.84,0.008,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2999,Water Corporation MySuper 1990s,High Growth,1,1,6.299607,NULL,NULL,0.00791,5.1,4.27,463.84,0.0079,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,3000,Water Corporation MySuper Capital Stable,Conservative Balanced,1,1,5.550991,NULL,NULL,0.00413,3.6,2.29,393.84,0.0065,0.0012
+195,BT Retirement Wrap,Retail,65.062322,541,Westpac Group Plan - MySuper 1940s Lifestage,Capital Stable,1,1,5.699364,4.458976,4.023161,0.0071,1.4,1.29,385,0.0059,0.0012
+195,BT Retirement Wrap,Retail,65.062322,542,Westpac Group Plan - MySuper 1950s Lifestage,Conservative Balanced,1,1,5.927154,5.185549,4.747624,0.12047,1.6,1.81,380,0.0059,0.0012
+195,BT Retirement Wrap,Retail,65.062322,543,Westpac Group Plan - MySuper 1960s Lifestage,Balanced,1,1,6.644469,7.476445,6.261196,0.59554,2.5,3.58,380,0.0061,0.0012
+195,BT Retirement Wrap,Retail,65.062322,544,Westpac Group Plan - MySuper 1970s Lifestage,Growth,1,1,7.38845,9.743592,7.750941,0.97486,3.6,4.3,385,0.0063,0.0012
+195,BT Retirement Wrap,Retail,65.062322,545,Westpac Group Plan - MySuper 1980s Lifestage,Growth,1,1,7.429494,9.827455,7.886187,0.78522,3.8,4.3,385,0.0063,0.0012
+195,BT Retirement Wrap,Retail,65.062322,546,Westpac Group Plan - MySuper 1990s Lifestage,Growth,1,1,7.468186,9.978167,7.994795,0.14427,3.8,4.3,385,0.0063,0.0012
+195,BT Retirement Wrap,Retail,65.062322,547,Westpac Group Plan - MySuper 2000s Lifestage,Growth,1,1,7.386801,NULL,NULL,0.00014,3.8,4.3,385,0.0064,0.0012
+122,AMP Superannuation Savings Trust,Retail,56.744778,2184,Woolworths Group MySuper,Balanced,0,1,6.172384,8.295592,7.807283,3.07236,4.6,3.56,468.5,0.0086,0.001
